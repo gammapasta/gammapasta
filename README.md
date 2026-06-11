@@ -46,8 +46,8 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
-| **[실시간 행동 분석 기반 대응 로봇](#)** | 실시간 행동 인식, 자세 분석, 임베디드 제어를 결합한 대응 로봇 시스템 구현 | Python, Raspberry Pi, STM32, YOLO, MediaPipe |
-| **[STM32 기반 스마트 알약 자동 디스펜서](#)** | 모터 제어 기반 알약 배출 구조 설계, 센서 기반 상태 감지 기능 구현, 사용자 알림 및 제어 인터페이스 구성 | C, STM32, App Inventor, Autodesk Fusion |
+| **[실시간 행동 분석 기반 대응 로봇](https://github.com/gammapasta/Real-Time_Behavior_Analysis_based_Response_Robot)** | 실시간 행동 인식, 자세 분석, 임베디드 제어를 결합한 대응 로봇 시스템 구현 | Python, Raspberry Pi, STM32, YOLO, MediaPipe |
+| **[STM32 기반 스마트 알약 자동 디스펜서](https://github.com/gammapasta/Pill-O-Clock)** | 모터 제어 기반 알약 배출 구조 설계, 센서 기반 상태 감지 기능 구현, 사용자 알림 및 제어 인터페이스 구성 | C, STM32, App Inventor, Autodesk Fusion |
 | **[PLC 기반 지능형 자동화 물류 시스템](https://github.com/gammapasta/PLC_Portfolio_-intelligent-logistics-system-)** | 금속/비금속 공정 자동화 시스템 구현, HMI 연동, 서보 제어, 인터록, 알람, 택타임 개선 수행 | Mitsubishi PLC, HMI, Servo, GX Works2 |
 | **[StepSTM 4축 모터 컨트롤러 보드](https://github.com/gammapasta/StepSTM_4-axis_controller_board)** | STM32 MCU를 활용한 4축 스텝모터 제어 및 OnStepX 호환 커스텀 하드웨어(PCB) 제작 (역전압 보호, 통신 전원 절연 및 교체형 모듈 구조(UART/SPI)) | EasyEDA, PCB Artwork, Circuit Design, UART/SPI |
 ---
